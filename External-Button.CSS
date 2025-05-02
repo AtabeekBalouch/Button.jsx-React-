@@ -1,11 +1,10 @@
-//Well I did in line Styling but if you want to do it Seprately just copy the CSS Code only.
+//External CSS property
 
-// Just Like this;
-
-
+.Button{
 backgroundColor: "hsl(200, 100%, 50%)",
 border: "none",
 color: "white",
 padding: "10px 20px",
 borderRadius: "5px",
 cursor: "pointer",
+}
